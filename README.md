@@ -3,7 +3,7 @@
 
 This project is meant to demonstrate the talk I gave in Laravel Kenya forum on 15th of November 2023.
 
-The talk can be found here: [Watch on YouTube]
+The talk can be found here: [Watch on YouTube](https://drive.google.com/uc?id=15hfoqoyLZ5VorxSB6TQ9ViLhi21bzTht&export=download)
 
 ## Associated Resources
 
